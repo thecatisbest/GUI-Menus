@@ -1,0 +1,5 @@
+name: GUIMenus
+version: '${project.version}'
+main: me.guimenus.guimenus.Guimenus
+api-version: 1.16
+description: A minecraft plugin
